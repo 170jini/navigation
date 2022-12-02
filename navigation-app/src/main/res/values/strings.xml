@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Myth</string>
+    <string name="london_title">LONDON</string>
+    <string name="italy_title">ITALY</string>
+    <string name="paris_title">PARIS</string>
+    <string name="paris">Paris</string>
+    <string name="london">London</string>
+    <string name="italy">Italy</string>
+    <string name="go_to_italy">Go to Italy</string>
+    <string name="go_to_london">Go to London</string>
+    <string name="go_to_paris">Go to Paris</string>
+</resources>
